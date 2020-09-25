@@ -1,6 +1,7 @@
 **/__pycache__
 .DS_Store
 *.so
+*.o
 
 # VIM https://github.com/github/gitignore/blob/master/Global/Vim.gitignore
 [._]*.s[a-v][a-z]
